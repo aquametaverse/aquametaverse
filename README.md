@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aquametaverse founder of aquametaverse paltform projects , DAO and Game-FI 
+- 👋 Hi, I’m @aquametaverse founder of aquametaverse platform projects , DAO , Game-FI 
 - 👀 I’m interested in creating a Metaverse game where you can access from multiple devices using web2 or web3technologies 
        You access a world of water front properties and wild places, a 3d world of beaches , rivers, lakes. 
        Water Sports Simulation Mini-Games integrating NFT Web3 technologies and open standards are present
